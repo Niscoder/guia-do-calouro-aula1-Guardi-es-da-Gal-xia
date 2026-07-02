@@ -11,3 +11,4 @@ formato `- [Título](arquivo.md) — resumo curto`.
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
+- [Campus: onde cada campus fica?](câmpus-universitários.md) — Venha descobrir as localizações dos campus e algumas dicas que podem salvar seu dia!
