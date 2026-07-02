@@ -7,7 +7,7 @@
     3. adicione a linha do seu verbete em verbetes/INDEX.md
 -->
 
-# Título da Dica 🏷️
+# Campus 🏷️
 
 **Categoria:** Local
 <!-- escolha uma: Alimentação · Transporte · Estudos · Burocracia · Moradia · Lazer · Sobrevivência -->
